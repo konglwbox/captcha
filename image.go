@@ -18,7 +18,7 @@ const (
 	StdWidth  = 240
 	StdHeight = 80
 	// Maximum absolute skew factor of a single digit.
-	maxSkew = 0.7
+	maxSkew = 0.2
 	// Number of background circles.
 	circleCount = 20
 )
